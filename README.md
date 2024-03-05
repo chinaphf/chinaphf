@@ -1,7 +1,7 @@
 ## Hello👋, I am a programmer and hope to cooperate with you.
 
 Here are my skills:
-1. Have rich years of development experience, more than 10 years of solid JAVA language development experience, 10+ years of microservice development experience, familiar with the Spring boot framework, familiar with rabbit mq, redis and other common development and configuration of microservices.
+1. Have rich years of development experience, more than 10 years of solid JAVA language development experience, 10+ years of microservice development experience, familiar with the Spring cloud,spring boot framework, familiar with rabbit mq, redis and other common development and configuration of microservices.
 2. Have experience in management/development/maintenance of multiple large-scale J2EE projects. Able to lead a team independently and guide the development work of junior high school development engineers.
 3. Proficient in relational databases and No sql databases, such as ORACLE database, mysql database, mangoDb database.
 4. Master the knowledge of requirements analysis and be able to design independently. Be proficient in UML knowledge and design patterns, and master the E-R design of the database.
